@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L05AddApp</string>
+    <string name="number_1">Number 1</string>
+    <string name="enter_number">Enter number</string>
+    <string name="number_2">Number 2</string>
+    <string name="calculate">Calculate</string>
+    <string name="subtract">Subtract</string>
+    <string name="division">Division</string>
+    <string name="product">Product</string>
+    <string name="sum">Sum</string>
+</resources>
